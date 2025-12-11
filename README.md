@@ -1,16 +1,17 @@
-## Hi there 👋
+# I'm Kore29! 👋
 
-<!--
-**Kore29/Kore29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the gap between Fullstack Web & Artificial Intelligence.
 
-Here are some ideas to get you started:
+⚒️ TypeScript / Python / Java / React.
+🎓 DAM + AI Specialization Student based in 📍 Barcelona.
+🐧 Arch Linux & Home Lab & Automation & Tinkering.
+📦 Building clean code & scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 [Portfolio](https://kore29portfolio.netlify.app/) 💼 [LinkedIn](https://www.linkedin.com/in/marti-casta%C3%B1o-rodriguez-77a54a341/) 📧 [marticastanorodriguez@gmail.com](mailto:marticastanorodriguez@gmail.com)
+
+---
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kore29&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
